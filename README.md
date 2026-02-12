@@ -6,9 +6,9 @@
 
 ### 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java, Spring Boot, Hibernate  
+- **Backend:** Java, Spring Boot, Hibernate , Microservices 
 - **Database:** SQL, PostgreSQL  
-- **Tools:** Git, VS Code  
+- **Tools:** Git, VS Code , Eclipse
 
 ---
 
