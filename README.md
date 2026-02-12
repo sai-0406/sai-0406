@@ -14,4 +14,4 @@
 
 ### 🔗 Let's Connect
 - 📧 Email: mskrishna0406@gmail.com  
-- 💼 [LinkedIn] (https://www.linkedin.com/in/sai-krishna-manku-708363214/)
+- 💼 [LinkedIn]_(https://www.linkedin.com/in/sai-krishna-manku-708363214/)_
