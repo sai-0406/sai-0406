@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Sai Krishna Manku 
 
-<!--
-**sai-0406/sai-0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Java Developer 🤖  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Java, Spring Boot, Hibernate  
+- **Database:** SQL, PostgreSQL  
+- **Tools:** Git, VS Code  
+
+---
+
+### 🔗 Let's Connect
+- 📧 Email: mskrishna0406@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sai-krishna-manku-708363214/
