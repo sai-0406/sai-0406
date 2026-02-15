@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Sai Krishna Manku 
 
-### Full Stack Java Developer 🤖  
+### Java Developer 🤖  
 
 ---
 
